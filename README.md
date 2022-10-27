@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # devoir-git
 Inès Gabert
+=======
+Eva Gainette 
+
+>>>>>>> c0952579bb2fbe6a309a23432cd960e15a633de2
 
 
 how_many_people = 4
