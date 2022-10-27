@@ -1,4 +1,6 @@
-# devoir-git
+Eva Gainette 
+
+
 
 how_many_people = 4
 
