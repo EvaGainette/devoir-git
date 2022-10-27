@@ -1,4 +1,6 @@
 # devoir-git
+Inès Gabert
+
 
 how_many_people = 4
 
