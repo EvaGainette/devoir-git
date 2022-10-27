@@ -1,6 +1,6 @@
 Eva Gainette @EvaGainette
 Inès Gabert @inesgab
-Enzo Boulin
+Enzo Boulin @enzo-boulin
 Abdellah Rebaine @Abdellah-Mines
 
 how_many_people = 4
