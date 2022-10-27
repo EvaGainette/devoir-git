@@ -2,7 +2,7 @@
 # élève REBAINE Abdellah n°3
 
 Eva Gainette 
-
+Inès Gabert
 
 how_many_people = 4
 
