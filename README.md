@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # devoir-git
-#REBAINE Abdellah n°3
+# élève REBAINE Abdellah n°3
 
 
+=======
+Eva Gainette 
+>>>>>>> c0952579bb2fbe6a309a23432cd960e15a633de2
 
 
 
