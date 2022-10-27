@@ -1,4 +1,4 @@
-Eva Gainette
+Eva Gainette @EvaGainette
 Inès Gabert @inesgab
 Enzo Boulin
 Abdellah Rebaine @Abdellah-Mines
